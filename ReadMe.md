@@ -30,7 +30,7 @@ Final products:
 FinalReport.html (as generated from the above markdown files)  
 Beers_CaseStudy_Garrity/Palmer.pptx (created manually, using figures and text copied from FinalReport.html)
 
-YouTube Presentation by Steven Garrity: 
+YouTube Presentation by Steven Garrity:  
 https://youtu.be/6veVCjdij9M
 
 YouTube Video by Richard Palmer:  
