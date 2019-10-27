@@ -28,7 +28,10 @@ Question9.Rmd
 
 Final products:  
 FinalReport.html (as generated from the above markdown files)  
-CaseStudy_Palmer_Garrity.pptx (created manually, using figures and text copied from FinalReport.html)
+Beers_CaseStudy_Garrity/Palmer.pptx (created manually, using figures and text copied from FinalReport.html)
+
+YouTube Presentation by Steven Garrity:
+https://youtu.be/6veVCjdij9M
 
 YouTube Video by Richard Palmer:  
 https://www.youtube.com/watch?v=hnHFzbfwtRc&feature=youtu.be  
