@@ -68,7 +68,7 @@ eleven states that represent a potentially underserved market.  Considering the 
 that are currently marketed in those states, we have identified four distinct groups of
 states with similar tastes.  Based on the characteristics of beers that are popular in 
 those states, we believe three new labels with appropriate styles could do well in the
-underserved market.  Here is our recommendation:
+underserved market.  Here is our recommendation: Among the 11 states targeted for additional investigation (states identified as being underrepresented in the craft beer market), choose one of the clusters where Budweiser feels that it can offer a competitive beer style and plan to distribute within those states.
 
 ```{r}
 library(knitr)
