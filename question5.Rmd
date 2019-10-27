@@ -12,6 +12,7 @@ library(ggplot2)
 ```
 
 # Max ABV
+Colorado has the maximum ABV at 12.8%
 ```{r}
 #run twice: 1) with missing values, 2) without missing values
 
@@ -60,6 +61,7 @@ maxABVfill %>% filter(State == " CO" | State == " KY" | State == " IN" | State =
 ```
 
 # Which state has the most bitter beer?
+Oregon has the maximum IBU at 138
 ```{r}
 #run twice: 1) with missing values, 2) without missing values
 maxIBUfill <- merged %>% 
